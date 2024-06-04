@@ -3,8 +3,8 @@
 <br>
 
 ## Minha experiência:
-🌐 Trabalho com dados há 6 anos e tenho vasta experiência com SQL, Python e Machine Learning.
-🎯 Aplico esforços e inteligência de dados para gerar os melhores resultados para as empresas.
+🌐 Trabalho com dados há 6 anos e tenho vasta experiência com SQL, Python e Machine Learning. <br>
+🎯 Aplico esforços e inteligência de dados para gerar os melhores resultados para as empresas. <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para bruno.venancio.2022@gmail.com <br>
 <br>
 
