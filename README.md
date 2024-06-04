@@ -16,23 +16,23 @@ Olá! Meu nome é Bruno, tenho 25 anos e cursei Análise e Desenvolvimento de Si
 
 ### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn)
-SQL
-Machine Learning (Modelos supervisionados, não supervisionados)
-Spark
-Estatística descritiva e inferencial aplicada à análise de dados
-Excel
-PowerBI
+Python (scikit-learn, pandas, numpy, matplotlib, seaborn) <br>
+SQL <br>
+Machine Learning (Modelos supervisionados, não supervisionados) <br>
+Spark <br>
+Estatística descritiva e inferencial aplicada à análise de dados <br>
+Excel <br>
+PowerBI <br>
 <br>
 
 <br>
 
 ### Soft Skills:
 
-Autodidata
-Aprendizado rápido
-Trabalho em equipe
-Senso de urgência
+Autodidata <br>
+Aprendizado rápido <br>
+Trabalho em equipe <br>
+Senso de urgência <br>
 <br>
 
 <br>
@@ -51,8 +51,8 @@ Idiomas: Português Nativo e Inglês Intermediário.
 
 ## Produção de Conteúdo:
 
-Linkedin: https://www.linkedin.com/in/bruno-venancio-nas/
-Medium: https://medium.com/@bruno.venancio
+Linkedin: https://www.linkedin.com/in/bruno-venancio-nas/ <br>
+Medium: https://medium.com/@bruno.venancio <br>
 
 <br>
 
