@@ -25,8 +25,6 @@ Excel <br>
 PowerBI <br>
 <br>
 
-<br>
-
 ### Soft Skills:
 
 Autodidata <br>
