@@ -33,15 +33,11 @@ Trabalho em equipe <br>
 Senso de urgência <br>
 <br>
 
-<br>
-
 ## Projetos em que atuei:
 
 Criação de modelos de Machine Learning com foco em resultado do negócio como previsão de Churn e prevenção à fraude. <br>
 Segmentação de clientes com análise RFV e algoritmo k-means com foco em personalização de campanhas para melhores resultados comerciais. <br>
 Criação de pipelines de dados para projetos com alto volume de dados. <br>
-
-<br>
 
 <br>
 
