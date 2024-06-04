@@ -8,8 +8,6 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para bruno.venancio.2022@gmail.com <br>
 <br>
 
-<br>
-
 ## Sobre mim:
 
 Olá! Meu nome é Bruno, tenho 25 anos e cursei Análise e Desenvolvimento de Sistemas na Estácio. Atuo no mercado de dados há 6 anos.
